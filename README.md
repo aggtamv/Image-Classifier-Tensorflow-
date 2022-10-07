@@ -1,4 +1,4 @@
-# Image-Classifier-Tensorflow-
+# Image-Classifier-Tensorflow
 Custom Image Classifier using Tensorflow
 
 ![My Image2](https://github.com/aggtamv/Image-Classifier-Tensorflow-/blob/main/Arcane_logo.jpg)
